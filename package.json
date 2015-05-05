@@ -1,0 +1,19 @@
+{
+  "name": "scoped-invariant",
+  "version": "1.0.0",
+  "description": "Creates a scoped invariant() warning",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jquense/scoped-invariant"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jquense/scoped-invariant/issues"
+  },
+  "homepage": "https://github.com/jquense/scoped-invariant"
+}
