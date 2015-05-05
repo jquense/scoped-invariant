@@ -1,7 +1,7 @@
 {
   "name": "scoped-invariant",
   "version": "1.0.0",
-  "description": "Creates a scoped invariant() warning",
+  "description": "Creates a scoped invariant() error for tracking who is throwing what",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
